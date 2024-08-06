@@ -1,0 +1,304 @@
+age,sex,Chest pain,trestbps(mm/Hg),chol(mm/dl),fbs(mg/dl),restecg,thalach,exang,oldpeak,slope,ca,Thalassemia,Heart Disease
+63,M,Asymptomatic,145,233,> 120 mg/dl,Normal,150,No,2.3,Upsloping,0,Fixed defect,Present
+37,M,Non-anginal pain,130,250,≤ 120 mg/dl,ST-T Abnormality,187,No,3.5,Upsloping,0,Reversible defect,Present
+41,F,Atypical angina,130,204,≤ 120 mg/dl,Normal,172,No,1.4,Downsloping,0,Reversible defect,Present
+56,M,Atypical angina,120,236,≤ 120 mg/dl,ST-T Abnormality,178,No,0.8,Downsloping,0,Reversible defect,Present
+57,F,Typical angina,120,354,≤ 120 mg/dl,ST-T Abnormality,163,Yes,0.6,Downsloping,0,Reversible defect,Present
+57,M,Typical angina,140,192,≤ 120 mg/dl,ST-T Abnormality,148,No,0.4,Flat,0,Fixed defect,Present
+56,F,Atypical angina,140,294,≤ 120 mg/dl,Normal,153,No,1.3,Flat,0,Reversible defect,Present
+44,M,Atypical angina,120,263,≤ 120 mg/dl,ST-T Abnormality,173,No,0.0,Downsloping,0,Unknown,Present
+52,M,Non-anginal pain,172,199,> 120 mg/dl,ST-T Abnormality,162,No,0.5,Downsloping,0,Unknown,Present
+57,M,Non-anginal pain,150,168,≤ 120 mg/dl,ST-T Abnormality,174,No,1.6,Downsloping,0,Reversible defect,Present
+54,M,Typical angina,140,239,≤ 120 mg/dl,ST-T Abnormality,160,No,1.2,Downsloping,0,Reversible defect,Present
+48,F,Non-anginal pain,130,275,≤ 120 mg/dl,ST-T Abnormality,139,No,0.2,Downsloping,0,Reversible defect,Present
+49,M,Atypical angina,130,266,≤ 120 mg/dl,ST-T Abnormality,171,No,0.6,Downsloping,0,Reversible defect,Present
+64,M,Asymptomatic,110,211,≤ 120 mg/dl,Normal,144,Yes,1.8,Flat,0,Reversible defect,Present
+58,F,Asymptomatic,150,283,> 120 mg/dl,Normal,162,No,1.0,Downsloping,0,Reversible defect,Present
+50,F,Non-anginal pain,120,219,≤ 120 mg/dl,ST-T Abnormality,158,No,1.6,Flat,0,Reversible defect,Present
+58,F,Non-anginal pain,120,340,≤ 120 mg/dl,ST-T Abnormality,172,No,0.0,Downsloping,0,Reversible defect,Present
+66,F,Asymptomatic,150,226,≤ 120 mg/dl,ST-T Abnormality,114,No,2.6,Upsloping,0,Reversible defect,Present
+43,M,Typical angina,150,247,≤ 120 mg/dl,ST-T Abnormality,171,No,1.5,Downsloping,0,Reversible defect,Present
+69,F,Asymptomatic,140,239,≤ 120 mg/dl,ST-T Abnormality,151,No,1.8,Downsloping,2,Reversible defect,Present
+59,M,Typical angina,135,234,≤ 120 mg/dl,ST-T Abnormality,161,No,0.5,Flat,0,Unknown,Present
+44,M,Non-anginal pain,130,233,≤ 120 mg/dl,ST-T Abnormality,179,Yes,0.4,Downsloping,0,Reversible defect,Present
+42,M,Typical angina,140,226,≤ 120 mg/dl,ST-T Abnormality,178,No,0.0,Downsloping,0,Reversible defect,Present
+61,M,Non-anginal pain,150,243,> 120 mg/dl,ST-T Abnormality,137,Yes,1.0,Flat,0,Reversible defect,Present
+40,M,Asymptomatic,140,199,≤ 120 mg/dl,ST-T Abnormality,178,Yes,1.4,Downsloping,0,Unknown,Present
+71,F,Atypical angina,160,302,≤ 120 mg/dl,ST-T Abnormality,162,No,0.4,Downsloping,2,Reversible defect,Present
+59,M,Non-anginal pain,150,212,> 120 mg/dl,ST-T Abnormality,157,No,1.6,Downsloping,0,Reversible defect,Present
+51,M,Non-anginal pain,110,175,≤ 120 mg/dl,ST-T Abnormality,123,No,0.6,Downsloping,0,Reversible defect,Present
+65,F,Non-anginal pain,140,417,> 120 mg/dl,Normal,157,No,0.8,Downsloping,1,Reversible defect,Present
+53,M,Non-anginal pain,130,197,> 120 mg/dl,Normal,152,No,1.2,Upsloping,0,Reversible defect,Present
+41,F,Atypical angina,105,198,≤ 120 mg/dl,ST-T Abnormality,168,No,0.0,Downsloping,1,Reversible defect,Present
+65,M,Typical angina,120,177,≤ 120 mg/dl,ST-T Abnormality,140,No,0.4,Downsloping,0,Unknown,Present
+44,M,Atypical angina,130,219,≤ 120 mg/dl,Normal,188,No,0.0,Downsloping,0,Reversible defect,Present
+54,M,Non-anginal pain,125,273,≤ 120 mg/dl,Normal,152,No,0.5,Upsloping,1,Reversible defect,Present
+51,M,Asymptomatic,125,213,≤ 120 mg/dl,Normal,125,Yes,1.4,Downsloping,1,Reversible defect,Present
+46,F,Non-anginal pain,142,177,≤ 120 mg/dl,Normal,160,Yes,1.4,Upsloping,0,Reversible defect,Present
+54,F,Non-anginal pain,135,304,> 120 mg/dl,ST-T Abnormality,170,No,0.0,Downsloping,0,Reversible defect,Present
+54,M,Non-anginal pain,150,232,≤ 120 mg/dl,Normal,165,No,1.6,Downsloping,0,Unknown,Present
+65,F,Non-anginal pain,155,269,≤ 120 mg/dl,ST-T Abnormality,148,No,0.8,Downsloping,0,Reversible defect,Present
+65,F,Non-anginal pain,160,360,≤ 120 mg/dl,Normal,151,No,0.8,Downsloping,0,Reversible defect,Present
+51,F,Non-anginal pain,140,308,≤ 120 mg/dl,Normal,142,No,1.5,Downsloping,1,Reversible defect,Present
+48,M,Atypical angina,130,245,≤ 120 mg/dl,Normal,180,No,0.2,Flat,0,Reversible defect,Present
+45,M,Typical angina,104,208,≤ 120 mg/dl,Normal,148,Yes,3.0,Flat,0,Reversible defect,Present
+53,F,Typical angina,130,264,≤ 120 mg/dl,Normal,143,No,0.4,Flat,0,Reversible defect,Present
+39,M,Non-anginal pain,140,321,≤ 120 mg/dl,Normal,182,No,0.0,Downsloping,0,Reversible defect,Present
+52,M,Atypical angina,120,325,≤ 120 mg/dl,ST-T Abnormality,172,No,0.2,Downsloping,0,Reversible defect,Present
+44,M,Non-anginal pain,140,235,≤ 120 mg/dl,Normal,180,No,0.0,Downsloping,0,Reversible defect,Present
+47,M,Non-anginal pain,138,257,≤ 120 mg/dl,Normal,156,No,0.0,Downsloping,0,Reversible defect,Present
+53,F,Non-anginal pain,128,216,≤ 120 mg/dl,Normal,115,No,0.0,Downsloping,0,Normal,Present
+53,F,Typical angina,138,234,≤ 120 mg/dl,Normal,160,No,0.0,Downsloping,0,Reversible defect,Present
+51,F,Non-anginal pain,130,256,≤ 120 mg/dl,Normal,149,No,0.5,Downsloping,0,Reversible defect,Present
+66,M,Typical angina,120,302,≤ 120 mg/dl,Normal,151,No,0.4,Flat,0,Reversible defect,Present
+62,M,Non-anginal pain,130,231,≤ 120 mg/dl,ST-T Abnormality,146,No,1.8,Flat,3,Unknown,Present
+44,F,Non-anginal pain,108,141,≤ 120 mg/dl,ST-T Abnormality,175,No,0.6,Flat,0,Reversible defect,Present
+63,F,Non-anginal pain,135,252,≤ 120 mg/dl,Normal,172,No,0.0,Downsloping,0,Reversible defect,Present
+52,M,Atypical angina,134,201,≤ 120 mg/dl,ST-T Abnormality,158,No,0.8,Downsloping,1,Reversible defect,Present
+48,M,Typical angina,122,222,≤ 120 mg/dl,Normal,186,No,0.0,Downsloping,0,Reversible defect,Present
+45,M,Typical angina,115,260,≤ 120 mg/dl,Normal,185,No,0.0,Downsloping,0,Reversible defect,Present
+34,M,Asymptomatic,118,182,≤ 120 mg/dl,Normal,174,No,0.0,Downsloping,0,Reversible defect,Present
+57,F,Typical angina,128,303,≤ 120 mg/dl,Normal,159,No,0.0,Downsloping,1,Reversible defect,Present
+71,F,Non-anginal pain,110,265,> 120 mg/dl,Normal,130,No,0.0,Downsloping,1,Reversible defect,Present
+54,M,Atypical angina,108,309,≤ 120 mg/dl,ST-T Abnormality,156,No,0.0,Downsloping,0,Unknown,Present
+52,M,Asymptomatic,118,186,≤ 120 mg/dl,Normal,190,No,0.0,Flat,0,Fixed defect,Present
+41,M,Atypical angina,135,203,≤ 120 mg/dl,ST-T Abnormality,132,No,0.0,Flat,0,Fixed defect,Present
+58,M,Non-anginal pain,140,211,> 120 mg/dl,Normal,165,No,0.0,Downsloping,0,Reversible defect,Present
+35,F,Typical angina,138,183,≤ 120 mg/dl,ST-T Abnormality,182,No,1.4,Downsloping,0,Reversible defect,Present
+51,M,Non-anginal pain,100,222,≤ 120 mg/dl,ST-T Abnormality,143,Yes,1.2,Flat,0,Reversible defect,Present
+45,F,Atypical angina,130,234,≤ 120 mg/dl,Normal,175,No,0.6,Flat,0,Reversible defect,Present
+44,M,Atypical angina,120,220,≤ 120 mg/dl,ST-T Abnormality,170,No,0.0,Downsloping,0,Reversible defect,Present
+62,F,Typical angina,124,209,≤ 120 mg/dl,ST-T Abnormality,163,No,0.0,Downsloping,0,Reversible defect,Present
+54,M,Non-anginal pain,120,258,≤ 120 mg/dl,Normal,147,No,0.4,Flat,0,Unknown,Present
+51,M,Non-anginal pain,94,227,≤ 120 mg/dl,ST-T Abnormality,154,Yes,0.0,Downsloping,1,Unknown,Present
+29,M,Atypical angina,130,204,≤ 120 mg/dl,Normal,202,No,0.0,Downsloping,0,Reversible defect,Present
+51,M,Typical angina,140,261,≤ 120 mg/dl,Normal,186,Yes,0.0,Downsloping,0,Reversible defect,Present
+43,F,Non-anginal pain,122,213,≤ 120 mg/dl,ST-T Abnormality,165,No,0.2,Flat,0,Reversible defect,Present
+55,F,Atypical angina,135,250,≤ 120 mg/dl,Normal,161,No,1.4,Flat,0,Reversible defect,Present
+51,M,Non-anginal pain,125,245,> 120 mg/dl,Normal,166,No,2.4,Flat,0,Reversible defect,Present
+59,M,Atypical angina,140,221,≤ 120 mg/dl,ST-T Abnormality,164,Yes,0.0,Downsloping,0,Reversible defect,Present
+52,M,Atypical angina,128,205,> 120 mg/dl,ST-T Abnormality,184,No,0.0,Downsloping,0,Reversible defect,Present
+58,M,Non-anginal pain,105,240,≤ 120 mg/dl,Normal,154,Yes,0.6,Flat,0,Unknown,Present
+41,M,Non-anginal pain,112,250,≤ 120 mg/dl,ST-T Abnormality,179,No,0.0,Downsloping,0,Reversible defect,Present
+45,M,Atypical angina,128,308,≤ 120 mg/dl,Normal,170,No,0.0,Downsloping,0,Reversible defect,Present
+60,F,Non-anginal pain,102,318,≤ 120 mg/dl,ST-T Abnormality,160,No,0.0,Downsloping,1,Reversible defect,Present
+52,M,Asymptomatic,152,298,> 120 mg/dl,ST-T Abnormality,178,No,1.2,Flat,0,Unknown,Present
+42,F,Typical angina,102,265,≤ 120 mg/dl,Normal,122,No,0.6,Flat,0,Reversible defect,Present
+67,F,Non-anginal pain,115,564,≤ 120 mg/dl,Normal,160,No,1.6,Flat,0,Unknown,Present
+68,M,Non-anginal pain,118,277,≤ 120 mg/dl,ST-T Abnormality,151,No,1.0,Downsloping,1,Unknown,Present
+46,M,Atypical angina,101,197,> 120 mg/dl,ST-T Abnormality,156,No,0.0,Downsloping,0,Unknown,Present
+54,F,Non-anginal pain,110,214,≤ 120 mg/dl,ST-T Abnormality,158,No,1.6,Flat,0,Reversible defect,Present
+58,F,Typical angina,100,248,≤ 120 mg/dl,Normal,122,No,1.0,Flat,0,Reversible defect,Present
+48,M,Non-anginal pain,124,255,> 120 mg/dl,ST-T Abnormality,175,No,0.0,Downsloping,2,Reversible defect,Present
+57,M,Typical angina,132,207,≤ 120 mg/dl,ST-T Abnormality,168,Yes,0.0,Downsloping,0,Unknown,Present
+52,M,Non-anginal pain,138,223,≤ 120 mg/dl,ST-T Abnormality,169,No,0.0,Downsloping,4,Reversible defect,Present
+54,F,Atypical angina,132,288,> 120 mg/dl,Normal,159,Yes,0.0,Downsloping,1,Reversible defect,Present
+45,F,Atypical angina,112,160,≤ 120 mg/dl,ST-T Abnormality,138,No,0.0,Flat,0,Reversible defect,Present
+53,M,Typical angina,142,226,≤ 120 mg/dl,Normal,111,Yes,0.0,Downsloping,0,Unknown,Present
+62,F,Typical angina,140,394,≤ 120 mg/dl,Normal,157,No,1.2,Flat,0,Reversible defect,Present
+52,M,Typical angina,108,233,> 120 mg/dl,ST-T Abnormality,147,No,0.1,Downsloping,3,Unknown,Present
+43,M,Non-anginal pain,130,315,≤ 120 mg/dl,ST-T Abnormality,162,No,1.9,Downsloping,1,Reversible defect,Present
+53,M,Non-anginal pain,130,246,> 120 mg/dl,Normal,173,No,0.0,Downsloping,3,Reversible defect,Present
+42,M,Asymptomatic,148,244,≤ 120 mg/dl,Normal,178,No,0.8,Downsloping,2,Reversible defect,Present
+59,M,Asymptomatic,178,270,≤ 120 mg/dl,Normal,145,No,4.2,Upsloping,0,Unknown,Present
+63,F,Atypical angina,140,195,≤ 120 mg/dl,ST-T Abnormality,179,No,0.0,Downsloping,2,Reversible defect,Present
+42,M,Non-anginal pain,120,240,> 120 mg/dl,ST-T Abnormality,194,No,0.8,Upsloping,0,Unknown,Present
+50,M,Non-anginal pain,129,196,≤ 120 mg/dl,ST-T Abnormality,163,No,0.0,Downsloping,0,Reversible defect,Present
+68,F,Non-anginal pain,120,211,≤ 120 mg/dl,Normal,115,No,1.5,Flat,0,Reversible defect,Present
+69,M,Asymptomatic,160,234,> 120 mg/dl,Normal,131,No,0.1,Flat,1,Reversible defect,Present
+45,F,Typical angina,138,236,≤ 120 mg/dl,Normal,152,Yes,0.2,Flat,0,Reversible defect,Present
+50,F,Atypical angina,120,244,≤ 120 mg/dl,ST-T Abnormality,162,No,1.1,Downsloping,0,Reversible defect,Present
+50,F,Typical angina,110,254,≤ 120 mg/dl,Normal,159,No,0.0,Downsloping,0,Reversible defect,Present
+64,F,Typical angina,180,325,≤ 120 mg/dl,ST-T Abnormality,154,Yes,0.0,Downsloping,0,Reversible defect,Present
+57,M,Non-anginal pain,150,126,> 120 mg/dl,ST-T Abnormality,173,No,0.2,Downsloping,1,Unknown,Present
+64,F,Non-anginal pain,140,313,≤ 120 mg/dl,ST-T Abnormality,133,No,0.2,Downsloping,0,Unknown,Present
+43,M,Typical angina,110,211,≤ 120 mg/dl,ST-T Abnormality,161,No,0.0,Downsloping,0,Unknown,Present
+55,M,Atypical angina,130,262,≤ 120 mg/dl,ST-T Abnormality,155,No,0.0,Downsloping,0,Reversible defect,Present
+37,F,Non-anginal pain,120,215,≤ 120 mg/dl,ST-T Abnormality,170,No,0.0,Downsloping,0,Reversible defect,Present
+41,M,Non-anginal pain,130,214,≤ 120 mg/dl,Normal,168,No,2.0,Flat,0,Reversible defect,Present
+56,M,Asymptomatic,120,193,≤ 120 mg/dl,Normal,162,No,1.9,Flat,0,Unknown,Present
+46,F,Atypical angina,105,204,≤ 120 mg/dl,ST-T Abnormality,172,No,0.0,Downsloping,0,Reversible defect,Present
+46,F,Typical angina,138,243,≤ 120 mg/dl,Normal,152,Yes,0.0,Flat,0,Reversible defect,Present
+64,F,Typical angina,130,303,≤ 120 mg/dl,ST-T Abnormality,122,No,2.0,Flat,2,Reversible defect,Present
+59,M,Typical angina,138,271,≤ 120 mg/dl,Normal,182,No,0.0,Downsloping,0,Reversible defect,Present
+41,F,Non-anginal pain,112,268,≤ 120 mg/dl,Normal,172,Yes,0.0,Downsloping,0,Reversible defect,Present
+54,F,Non-anginal pain,108,267,≤ 120 mg/dl,Normal,167,No,0.0,Downsloping,0,Reversible defect,Present
+39,F,Non-anginal pain,94,199,≤ 120 mg/dl,ST-T Abnormality,179,No,0.0,Downsloping,0,Reversible defect,Present
+34,F,Atypical angina,118,210,≤ 120 mg/dl,ST-T Abnormality,192,No,0.7,Downsloping,0,Reversible defect,Present
+47,M,Typical angina,112,204,≤ 120 mg/dl,ST-T Abnormality,143,No,0.1,Downsloping,0,Reversible defect,Present
+67,F,Non-anginal pain,152,277,≤ 120 mg/dl,ST-T Abnormality,172,No,0.0,Downsloping,1,Reversible defect,Present
+52,F,Non-anginal pain,136,196,≤ 120 mg/dl,Normal,169,No,0.1,Flat,0,Reversible defect,Present
+74,F,Atypical angina,120,269,≤ 120 mg/dl,Normal,121,Yes,0.2,Downsloping,1,Reversible defect,Present
+54,F,Non-anginal pain,160,201,≤ 120 mg/dl,ST-T Abnormality,163,No,0.0,Downsloping,1,Reversible defect,Present
+49,F,Atypical angina,134,271,≤ 120 mg/dl,ST-T Abnormality,162,No,0.0,Flat,0,Reversible defect,Present
+42,M,Atypical angina,120,295,≤ 120 mg/dl,ST-T Abnormality,162,No,0.0,Downsloping,0,Reversible defect,Present
+41,M,Atypical angina,110,235,≤ 120 mg/dl,ST-T Abnormality,153,No,0.0,Downsloping,0,Reversible defect,Present
+41,F,Atypical angina,126,306,≤ 120 mg/dl,ST-T Abnormality,163,No,0.0,Downsloping,0,Reversible defect,Present
+49,F,Typical angina,130,269,≤ 120 mg/dl,ST-T Abnormality,163,No,0.0,Downsloping,0,Reversible defect,Present
+60,F,Non-anginal pain,120,178,> 120 mg/dl,ST-T Abnormality,96,No,0.0,Downsloping,0,Reversible defect,Present
+62,M,Atypical angina,128,208,> 120 mg/dl,Normal,140,No,0.0,Downsloping,0,Reversible defect,Present
+57,M,Typical angina,110,201,≤ 120 mg/dl,ST-T Abnormality,126,Yes,1.5,Flat,0,Fixed defect,Present
+64,M,Typical angina,128,263,≤ 120 mg/dl,ST-T Abnormality,105,Yes,0.2,Flat,1,Unknown,Present
+51,F,Non-anginal pain,120,295,≤ 120 mg/dl,Normal,157,No,0.6,Downsloping,0,Reversible defect,Present
+43,M,Typical angina,115,303,≤ 120 mg/dl,ST-T Abnormality,181,No,1.2,Flat,0,Reversible defect,Present
+42,F,Non-anginal pain,120,209,≤ 120 mg/dl,ST-T Abnormality,173,No,0.0,Flat,0,Reversible defect,Present
+67,F,Typical angina,106,223,≤ 120 mg/dl,ST-T Abnormality,142,No,0.3,Downsloping,2,Reversible defect,Present
+76,F,Non-anginal pain,140,197,≤ 120 mg/dl,LV Hypertrophy,116,No,1.1,Flat,0,Reversible defect,Present
+70,M,Atypical angina,156,245,≤ 120 mg/dl,Normal,143,No,0.0,Downsloping,0,Reversible defect,Present
+44,F,Non-anginal pain,118,242,≤ 120 mg/dl,ST-T Abnormality,149,No,0.3,Flat,1,Reversible defect,Present
+60,F,Asymptomatic,150,240,≤ 120 mg/dl,ST-T Abnormality,171,No,0.9,Downsloping,0,Reversible defect,Present
+44,M,Non-anginal pain,120,226,≤ 120 mg/dl,ST-T Abnormality,169,No,0.0,Downsloping,0,Reversible defect,Present
+42,M,Non-anginal pain,130,180,≤ 120 mg/dl,ST-T Abnormality,150,No,0.0,Downsloping,0,Reversible defect,Present
+66,M,Typical angina,160,228,≤ 120 mg/dl,Normal,138,No,2.3,Downsloping,0,Fixed defect,Present
+71,F,Typical angina,112,149,≤ 120 mg/dl,ST-T Abnormality,125,No,1.6,Flat,0,Reversible defect,Present
+64,M,Asymptomatic,170,227,≤ 120 mg/dl,Normal,155,No,0.6,Flat,0,Unknown,Present
+66,F,Non-anginal pain,146,278,≤ 120 mg/dl,Normal,152,No,0.0,Flat,1,Reversible defect,Present
+39,F,Non-anginal pain,138,220,≤ 120 mg/dl,ST-T Abnormality,152,No,0.0,Flat,0,Reversible defect,Present
+58,F,Typical angina,130,197,≤ 120 mg/dl,ST-T Abnormality,131,No,0.6,Flat,0,Reversible defect,Present
+47,M,Non-anginal pain,130,253,≤ 120 mg/dl,ST-T Abnormality,179,No,0.0,Downsloping,0,Reversible defect,Present
+35,M,Atypical angina,122,192,≤ 120 mg/dl,ST-T Abnormality,174,No,0.0,Downsloping,0,Reversible defect,Present
+58,M,Atypical angina,125,220,≤ 120 mg/dl,ST-T Abnormality,144,No,0.4,Flat,4,Unknown,Present
+56,M,Atypical angina,130,221,≤ 120 mg/dl,Normal,163,No,0.0,Downsloping,0,Unknown,Present
+56,M,Atypical angina,120,240,≤ 120 mg/dl,ST-T Abnormality,169,No,0.0,Upsloping,0,Reversible defect,Present
+55,F,Atypical angina,132,342,≤ 120 mg/dl,ST-T Abnormality,166,No,1.2,Downsloping,0,Reversible defect,Present
+41,M,Atypical angina,120,157,≤ 120 mg/dl,ST-T Abnormality,182,No,0.0,Downsloping,0,Reversible defect,Present
+38,M,Non-anginal pain,138,175,≤ 120 mg/dl,ST-T Abnormality,173,No,0.0,Downsloping,4,Reversible defect,Present
+38,M,Non-anginal pain,138,175,≤ 120 mg/dl,ST-T Abnormality,173,No,0.0,Downsloping,4,Reversible defect,Present
+67,M,Typical angina,160,286,≤ 120 mg/dl,Normal,108,Yes,1.5,Flat,3,Reversible defect,Absent
+67,M,Typical angina,120,229,≤ 120 mg/dl,Normal,129,Yes,2.6,Flat,2,Unknown,Absent
+62,F,Typical angina,140,268,≤ 120 mg/dl,Normal,160,No,3.6,Upsloping,2,Reversible defect,Absent
+63,M,Typical angina,130,254,≤ 120 mg/dl,Normal,147,No,1.4,Flat,1,Unknown,Absent
+53,M,Typical angina,140,203,> 120 mg/dl,Normal,155,Yes,3.1,Upsloping,0,Unknown,Absent
+56,M,Non-anginal pain,130,256,> 120 mg/dl,Normal,142,Yes,0.6,Flat,1,Fixed defect,Absent
+48,M,Atypical angina,110,229,≤ 120 mg/dl,ST-T Abnormality,168,No,1.0,Upsloping,0,Unknown,Absent
+58,M,Atypical angina,120,284,≤ 120 mg/dl,Normal,160,No,1.8,Flat,0,Reversible defect,Absent
+58,M,Non-anginal pain,132,224,≤ 120 mg/dl,Normal,173,No,3.2,Downsloping,2,Unknown,Absent
+60,M,Typical angina,130,206,≤ 120 mg/dl,Normal,132,Yes,2.4,Flat,2,Unknown,Absent
+40,M,Typical angina,110,167,≤ 120 mg/dl,Normal,114,Yes,2.0,Flat,0,Unknown,Absent
+60,M,Typical angina,117,230,> 120 mg/dl,ST-T Abnormality,160,Yes,1.4,Downsloping,2,Unknown,Absent
+64,M,Non-anginal pain,140,335,≤ 120 mg/dl,ST-T Abnormality,158,No,0.0,Downsloping,0,Reversible defect,Absent
+43,M,Typical angina,120,177,≤ 120 mg/dl,Normal,120,Yes,2.5,Flat,0,Unknown,Absent
+57,M,Typical angina,150,276,≤ 120 mg/dl,Normal,112,Yes,0.6,Flat,1,Fixed defect,Absent
+55,M,Typical angina,132,353,≤ 120 mg/dl,ST-T Abnormality,132,Yes,1.2,Flat,1,Unknown,Absent
+65,F,Typical angina,150,225,≤ 120 mg/dl,Normal,114,No,1.0,Flat,3,Unknown,Absent
+61,F,Typical angina,130,330,≤ 120 mg/dl,Normal,169,No,0.0,Downsloping,0,Reversible defect,Absent
+58,M,Non-anginal pain,112,230,≤ 120 mg/dl,Normal,165,No,2.5,Flat,1,Unknown,Absent
+50,M,Typical angina,150,243,≤ 120 mg/dl,Normal,128,No,2.6,Flat,0,Unknown,Absent
+44,M,Typical angina,112,290,≤ 120 mg/dl,Normal,153,No,0.0,Downsloping,1,Reversible defect,Absent
+60,M,Typical angina,130,253,≤ 120 mg/dl,ST-T Abnormality,144,Yes,1.4,Downsloping,1,Unknown,Absent
+54,M,Typical angina,124,266,≤ 120 mg/dl,Normal,109,Yes,2.2,Flat,1,Unknown,Absent
+50,M,Non-anginal pain,140,233,≤ 120 mg/dl,ST-T Abnormality,163,No,0.6,Flat,1,Unknown,Absent
+41,M,Typical angina,110,172,≤ 120 mg/dl,Normal,158,No,0.0,Downsloping,0,Unknown,Absent
+51,F,Typical angina,130,305,≤ 120 mg/dl,ST-T Abnormality,142,Yes,1.2,Flat,0,Unknown,Absent
+58,M,Typical angina,128,216,≤ 120 mg/dl,Normal,131,Yes,2.2,Flat,3,Unknown,Absent
+54,M,Typical angina,120,188,≤ 120 mg/dl,ST-T Abnormality,113,No,1.4,Flat,1,Unknown,Absent
+60,M,Typical angina,145,282,≤ 120 mg/dl,Normal,142,Yes,2.8,Flat,2,Unknown,Absent
+60,M,Non-anginal pain,140,185,≤ 120 mg/dl,Normal,155,No,3.0,Flat,0,Reversible defect,Absent
+59,M,Typical angina,170,326,≤ 120 mg/dl,Normal,140,Yes,3.4,Upsloping,0,Unknown,Absent
+46,M,Non-anginal pain,150,231,≤ 120 mg/dl,ST-T Abnormality,147,No,3.6,Flat,0,Reversible defect,Absent
+67,M,Typical angina,125,254,> 120 mg/dl,ST-T Abnormality,163,No,0.2,Flat,2,Unknown,Absent
+62,M,Typical angina,120,267,≤ 120 mg/dl,ST-T Abnormality,99,Yes,1.8,Flat,2,Unknown,Absent
+65,M,Typical angina,110,248,≤ 120 mg/dl,Normal,158,No,0.6,Downsloping,2,Fixed defect,Absent
+44,M,Typical angina,110,197,≤ 120 mg/dl,Normal,177,No,0.0,Downsloping,1,Reversible defect,Absent
+60,M,Typical angina,125,258,≤ 120 mg/dl,Normal,141,Yes,2.8,Flat,1,Unknown,Absent
+58,M,Typical angina,150,270,≤ 120 mg/dl,Normal,111,Yes,0.8,Downsloping,0,Unknown,Absent
+68,M,Non-anginal pain,180,274,> 120 mg/dl,Normal,150,Yes,1.6,Flat,0,Unknown,Absent
+62,F,Typical angina,160,164,≤ 120 mg/dl,Normal,145,No,6.2,Upsloping,3,Unknown,Absent
+52,M,Typical angina,128,255,≤ 120 mg/dl,ST-T Abnormality,161,Yes,0.0,Downsloping,1,Unknown,Absent
+59,M,Typical angina,110,239,≤ 120 mg/dl,Normal,142,Yes,1.2,Flat,1,Unknown,Absent
+60,F,Typical angina,150,258,≤ 120 mg/dl,Normal,157,No,2.6,Flat,2,Unknown,Absent
+49,M,Non-anginal pain,120,188,≤ 120 mg/dl,ST-T Abnormality,139,No,2.0,Flat,3,Unknown,Absent
+59,M,Typical angina,140,177,≤ 120 mg/dl,ST-T Abnormality,162,Yes,0.0,Downsloping,1,Unknown,Absent
+57,M,Non-anginal pain,128,229,≤ 120 mg/dl,Normal,150,No,0.4,Flat,1,Unknown,Absent
+61,M,Typical angina,120,260,≤ 120 mg/dl,ST-T Abnormality,140,Yes,3.6,Flat,1,Unknown,Absent
+39,M,Typical angina,118,219,≤ 120 mg/dl,ST-T Abnormality,140,No,1.2,Flat,0,Unknown,Absent
+61,F,Typical angina,145,307,≤ 120 mg/dl,Normal,146,Yes,1.0,Flat,0,Unknown,Absent
+56,M,Typical angina,125,249,> 120 mg/dl,Normal,144,Yes,1.2,Flat,1,Reversible defect,Absent
+43,F,Typical angina,132,341,> 120 mg/dl,Normal,136,Yes,3.0,Flat,0,Unknown,Absent
+62,F,Non-anginal pain,130,263,≤ 120 mg/dl,ST-T Abnormality,97,No,1.2,Flat,1,Unknown,Absent
+63,M,Typical angina,130,330,> 120 mg/dl,Normal,132,Yes,1.8,Downsloping,3,Unknown,Absent
+65,M,Typical angina,135,254,≤ 120 mg/dl,Normal,127,No,2.8,Flat,1,Unknown,Absent
+48,M,Typical angina,130,256,> 120 mg/dl,Normal,150,Yes,0.0,Downsloping,2,Unknown,Absent
+63,F,Typical angina,150,407,≤ 120 mg/dl,Normal,154,No,4.0,Flat,3,Unknown,Absent
+55,M,Typical angina,140,217,≤ 120 mg/dl,ST-T Abnormality,111,Yes,5.6,Upsloping,0,Unknown,Absent
+65,M,Asymptomatic,138,282,> 120 mg/dl,Normal,174,No,1.4,Flat,1,Reversible defect,Absent
+56,F,Typical angina,200,288,> 120 mg/dl,Normal,133,Yes,4.0,Upsloping,2,Unknown,Absent
+54,M,Typical angina,110,239,≤ 120 mg/dl,ST-T Abnormality,126,Yes,2.8,Flat,1,Unknown,Absent
+70,M,Typical angina,145,174,≤ 120 mg/dl,ST-T Abnormality,125,Yes,2.6,Upsloping,0,Unknown,Absent
+62,M,Atypical angina,120,281,≤ 120 mg/dl,Normal,103,No,1.4,Flat,1,Unknown,Absent
+35,M,Typical angina,120,198,≤ 120 mg/dl,ST-T Abnormality,130,Yes,1.6,Flat,0,Unknown,Absent
+59,M,Asymptomatic,170,288,≤ 120 mg/dl,Normal,159,No,0.2,Flat,0,Unknown,Absent
+64,M,Non-anginal pain,125,309,≤ 120 mg/dl,ST-T Abnormality,131,Yes,1.8,Flat,0,Unknown,Absent
+47,M,Non-anginal pain,108,243,≤ 120 mg/dl,ST-T Abnormality,152,No,0.0,Downsloping,0,Reversible defect,Absent
+57,M,Typical angina,165,289,> 120 mg/dl,Normal,124,No,1.0,Flat,3,Unknown,Absent
+55,M,Typical angina,160,289,≤ 120 mg/dl,Normal,145,Yes,0.8,Flat,1,Unknown,Absent
+64,M,Typical angina,120,246,≤ 120 mg/dl,Normal,96,Yes,2.2,Upsloping,1,Reversible defect,Absent
+70,M,Typical angina,130,322,≤ 120 mg/dl,Normal,109,No,2.4,Flat,3,Reversible defect,Absent
+51,M,Typical angina,140,299,≤ 120 mg/dl,ST-T Abnormality,173,Yes,1.6,Downsloping,0,Unknown,Absent
+58,M,Typical angina,125,300,≤ 120 mg/dl,Normal,171,No,0.0,Downsloping,2,Unknown,Absent
+60,M,Typical angina,140,293,≤ 120 mg/dl,Normal,170,No,1.2,Flat,2,Unknown,Absent
+77,M,Typical angina,125,304,≤ 120 mg/dl,Normal,162,Yes,0.0,Downsloping,3,Reversible defect,Absent
+35,M,Typical angina,126,282,≤ 120 mg/dl,Normal,156,Yes,0.0,Downsloping,0,Unknown,Absent
+70,M,Non-anginal pain,160,269,≤ 120 mg/dl,ST-T Abnormality,112,Yes,2.9,Flat,1,Unknown,Absent
+59,F,Typical angina,174,249,≤ 120 mg/dl,ST-T Abnormality,143,Yes,0.0,Flat,0,Reversible defect,Absent
+64,M,Typical angina,145,212,≤ 120 mg/dl,Normal,132,No,2.0,Flat,2,Fixed defect,Absent
+57,M,Typical angina,152,274,≤ 120 mg/dl,ST-T Abnormality,88,Yes,1.2,Flat,1,Unknown,Absent
+56,M,Typical angina,132,184,≤ 120 mg/dl,Normal,105,Yes,2.1,Flat,1,Fixed defect,Absent
+48,M,Typical angina,124,274,≤ 120 mg/dl,Normal,166,No,0.5,Flat,0,Unknown,Absent
+56,F,Typical angina,134,409,≤ 120 mg/dl,Normal,150,Yes,1.9,Flat,2,Unknown,Absent
+66,M,Atypical angina,160,246,≤ 120 mg/dl,ST-T Abnormality,120,Yes,0.0,Flat,3,Fixed defect,Absent
+54,M,Atypical angina,192,283,≤ 120 mg/dl,Normal,195,No,0.0,Downsloping,1,Unknown,Absent
+69,M,Non-anginal pain,140,254,≤ 120 mg/dl,Normal,146,No,2.0,Flat,3,Unknown,Absent
+51,M,Typical angina,140,298,≤ 120 mg/dl,ST-T Abnormality,122,Yes,4.2,Flat,3,Unknown,Absent
+43,M,Typical angina,132,247,> 120 mg/dl,Normal,143,Yes,0.1,Flat,4,Unknown,Absent
+62,F,Typical angina,138,294,> 120 mg/dl,ST-T Abnormality,106,No,1.9,Flat,3,Reversible defect,Absent
+67,M,Typical angina,100,299,≤ 120 mg/dl,Normal,125,Yes,0.9,Flat,2,Reversible defect,Absent
+59,M,Asymptomatic,160,273,≤ 120 mg/dl,Normal,125,No,0.0,Downsloping,0,Reversible defect,Absent
+45,M,Typical angina,142,309,≤ 120 mg/dl,Normal,147,Yes,0.0,Flat,3,Unknown,Absent
+58,M,Typical angina,128,259,≤ 120 mg/dl,Normal,130,Yes,3.0,Flat,2,Unknown,Absent
+50,M,Typical angina,144,200,≤ 120 mg/dl,Normal,126,Yes,0.9,Flat,0,Unknown,Absent
+62,F,Typical angina,150,244,≤ 120 mg/dl,ST-T Abnormality,154,Yes,1.4,Flat,0,Reversible defect,Absent
+38,M,Asymptomatic,120,231,≤ 120 mg/dl,ST-T Abnormality,182,Yes,3.8,Flat,0,Unknown,Absent
+66,F,Typical angina,178,228,> 120 mg/dl,ST-T Abnormality,165,Yes,1.0,Flat,2,Unknown,Absent
+52,M,Typical angina,112,230,≤ 120 mg/dl,ST-T Abnormality,160,No,0.0,Downsloping,1,Reversible defect,Absent
+53,M,Typical angina,123,282,≤ 120 mg/dl,ST-T Abnormality,95,Yes,2.0,Flat,2,Unknown,Absent
+63,F,Typical angina,108,269,≤ 120 mg/dl,ST-T Abnormality,169,Yes,1.8,Flat,2,Reversible defect,Absent
+54,M,Typical angina,110,206,≤ 120 mg/dl,Normal,108,Yes,0.0,Flat,1,Reversible defect,Absent
+66,M,Typical angina,112,212,≤ 120 mg/dl,Normal,132,Yes,0.1,Downsloping,1,Reversible defect,Absent
+55,F,Typical angina,180,327,≤ 120 mg/dl,LV Hypertrophy,117,Yes,3.4,Flat,0,Reversible defect,Absent
+49,M,Non-anginal pain,118,149,≤ 120 mg/dl,Normal,126,No,0.8,Downsloping,3,Reversible defect,Absent
+54,M,Typical angina,122,286,≤ 120 mg/dl,Normal,116,Yes,3.2,Flat,2,Reversible defect,Absent
+56,M,Typical angina,130,283,> 120 mg/dl,Normal,103,Yes,1.6,Upsloping,0,Unknown,Absent
+46,M,Typical angina,120,249,≤ 120 mg/dl,Normal,144,No,0.8,Downsloping,0,Unknown,Absent
+61,M,Asymptomatic,134,234,≤ 120 mg/dl,ST-T Abnormality,145,No,2.6,Flat,2,Reversible defect,Absent
+67,M,Typical angina,120,237,≤ 120 mg/dl,ST-T Abnormality,71,No,1.0,Flat,0,Reversible defect,Absent
+58,M,Typical angina,100,234,≤ 120 mg/dl,ST-T Abnormality,156,No,0.1,Downsloping,1,Unknown,Absent
+47,M,Typical angina,110,275,≤ 120 mg/dl,Normal,118,Yes,1.0,Flat,1,Reversible defect,Absent
+52,M,Typical angina,125,212,≤ 120 mg/dl,ST-T Abnormality,168,No,1.0,Downsloping,2,Unknown,Absent
+58,M,Typical angina,146,218,≤ 120 mg/dl,ST-T Abnormality,105,No,2.0,Flat,1,Unknown,Absent
+57,M,Atypical angina,124,261,≤ 120 mg/dl,ST-T Abnormality,141,No,0.3,Downsloping,0,Unknown,Absent
+58,F,Atypical angina,136,319,> 120 mg/dl,Normal,152,No,0.0,Downsloping,2,Reversible defect,Absent
+61,M,Typical angina,138,166,≤ 120 mg/dl,Normal,125,Yes,3.6,Flat,1,Reversible defect,Absent
+42,M,Typical angina,136,315,≤ 120 mg/dl,ST-T Abnormality,125,Yes,1.8,Flat,0,Fixed defect,Absent
+52,M,Typical angina,128,204,> 120 mg/dl,ST-T Abnormality,156,Yes,1.0,Flat,0,Normal,Absent
+59,M,Non-anginal pain,126,218,> 120 mg/dl,ST-T Abnormality,134,No,2.2,Flat,1,Fixed defect,Absent
+40,M,Typical angina,152,223,≤ 120 mg/dl,ST-T Abnormality,181,No,0.0,Downsloping,0,Unknown,Absent
+61,M,Typical angina,140,207,≤ 120 mg/dl,Normal,138,Yes,1.9,Downsloping,1,Unknown,Absent
+46,M,Typical angina,140,311,≤ 120 mg/dl,ST-T Abnormality,120,Yes,1.8,Flat,2,Unknown,Absent
+59,M,Asymptomatic,134,204,≤ 120 mg/dl,ST-T Abnormality,162,No,0.8,Downsloping,2,Reversible defect,Absent
+57,M,Atypical angina,154,232,≤ 120 mg/dl,Normal,164,No,0.0,Downsloping,1,Reversible defect,Absent
+57,M,Typical angina,110,335,≤ 120 mg/dl,ST-T Abnormality,143,Yes,3.0,Flat,1,Unknown,Absent
+55,F,Typical angina,128,205,≤ 120 mg/dl,LV Hypertrophy,130,Yes,2.0,Flat,1,Unknown,Absent
+61,M,Typical angina,148,203,≤ 120 mg/dl,ST-T Abnormality,161,No,0.0,Downsloping,1,Unknown,Absent
+58,M,Typical angina,114,318,≤ 120 mg/dl,LV Hypertrophy,140,No,4.4,Upsloping,3,Fixed defect,Absent
+58,F,Typical angina,170,225,> 120 mg/dl,Normal,146,Yes,2.8,Flat,2,Fixed defect,Absent
+67,M,Non-anginal pain,152,212,≤ 120 mg/dl,Normal,150,No,0.8,Flat,0,Unknown,Absent
+44,M,Typical angina,120,169,≤ 120 mg/dl,ST-T Abnormality,144,Yes,2.8,Upsloping,0,Fixed defect,Absent
+63,M,Typical angina,140,187,≤ 120 mg/dl,Normal,144,Yes,4.0,Downsloping,2,Unknown,Absent
+63,F,Typical angina,124,197,≤ 120 mg/dl,ST-T Abnormality,136,Yes,0.0,Flat,0,Reversible defect,Absent
+59,M,Typical angina,164,176,> 120 mg/dl,Normal,90,No,1.0,Flat,2,Fixed defect,Absent
+57,F,Typical angina,140,241,≤ 120 mg/dl,ST-T Abnormality,123,Yes,0.2,Flat,0,Unknown,Absent
+45,M,Asymptomatic,110,264,≤ 120 mg/dl,ST-T Abnormality,132,No,1.2,Flat,0,Unknown,Absent
+68,M,Typical angina,144,193,> 120 mg/dl,ST-T Abnormality,141,No,3.4,Flat,2,Unknown,Absent
+57,M,Typical angina,130,131,≤ 120 mg/dl,ST-T Abnormality,115,Yes,1.2,Flat,1,Unknown,Absent
+57,F,Atypical angina,130,236,≤ 120 mg/dl,Normal,174,No,0.0,Flat,1,Reversible defect,Absent
